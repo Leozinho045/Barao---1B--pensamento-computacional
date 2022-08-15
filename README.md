@@ -1,2 +1,2 @@
-# Barao---1B--pensamento-computacional
+# Barao-1b-pensamentocomputacional
 site desenvolvido em HTML e CSS
